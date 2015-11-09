@@ -1,6 +1,6 @@
 # ShooterAirplanes
-##First Game created in LUA and Love2D API
-##Primeiro teste de jogo criado em LUA com Love2D API
+###First Game created in LUA and Love2D API
+###Primeiro teste de jogo criado em LUA com Love2D API
 
 Well, it was my first test using the API Love2D that originally written in LUA, can be used to study .Ok, the code is ugly but was a first version and hereafter can be enhanced to be used to learn how to make games.
 
